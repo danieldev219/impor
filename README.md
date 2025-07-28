@@ -1,5 +1,3 @@
-# impor
-
 ## gmail:
 password: Superdragon@118
 ###Backup codes
