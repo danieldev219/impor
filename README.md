@@ -1,5 +1,4 @@
 ## gmail:
-password: Superdragon@118
 ### Backup codes
 ```
 8716 4778
